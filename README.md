@@ -1,5 +1,4 @@
-The background color is `#5B92E5`
-The foreground color is `#FFFFFF`
+![logo](https://github.com/VICHealthClub/VICHealthClub/assets/153489620/5d834d28-e232-43d2-a851-a1a1fb346dfe)
 
 # Welcome to the VIC Health Club
 
