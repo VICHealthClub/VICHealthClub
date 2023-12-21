@@ -1,4 +1,4 @@
-![logo_512x464](https://github.com/VICHealthClub/VICHealthClub/assets/153489620/bd57cd1f-7e86-4fae-8887-28b089af88dc)
+![logo_200x181](https://github.com/VICHealthClub/VICHealthClub/assets/153489620/66c2055b-7712-4b34-9610-3d2eca97a2b2)
 
 # Welcome to the VIC Health Club
 
